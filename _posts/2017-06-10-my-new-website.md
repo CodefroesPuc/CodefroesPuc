@@ -1,7 +1,7 @@
 ---
 layout: default
 title: This is my new Website
-date: 2017-06-10 20:00:00
+date: 2017-06-10 20:00:00 -0300
 categories: resume
 ---
 ## First Post. Hello all.
