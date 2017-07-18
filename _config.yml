@@ -1,4 +1,2 @@
 theme: jekyll-theme-architect
 title: Guilherme F. Silva
-permalink: /blog/:year/:month/:day/:title
-show_downloads: false
