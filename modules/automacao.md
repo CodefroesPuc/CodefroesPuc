@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: module
 title: Automação
 categories: modules
 permalink: automacao
 ---
+
+# Automação
 
 ##  Ementa:
 
