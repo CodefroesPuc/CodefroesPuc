@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Programação de Robôs
 categories: modules
 permalink: progRobos

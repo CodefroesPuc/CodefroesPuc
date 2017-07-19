@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: module
 title: Fluidomecânica
 categories: modules
 permalink: fluidomecanica
 ---
-
-# {{page.title}}
 
 ##  Ementa:
 

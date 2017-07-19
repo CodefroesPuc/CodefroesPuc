@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Sistemas Integrados de Fabricação
 categories: modules
 permalink: sistemasFab

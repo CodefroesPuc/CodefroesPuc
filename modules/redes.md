@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Redes e Protocolos Industriais
 categories: modules
 permalink: redes

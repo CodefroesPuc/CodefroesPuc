@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: module
 title: Laboratório de Simulação de Sistemas
 categories: modules
 permalink: laboratorioSim

@@ -5,10 +5,7 @@ categories: modules
 permalink: automacao
 ---
 
-# Automação
-
 ##  Ementa:
-
 Instrumentação industrial e predial. Introdução a máquinas elétricas. Acionamentos de dispositivos eletromecânicos. Controladores lógicos programáveis. Métodos para sintonia de controladores industriais. Sistemas supervisórios. Aplicações e práticas laboratoriais.
 
 ### Downloads:
